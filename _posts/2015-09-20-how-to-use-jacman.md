@@ -108,6 +108,7 @@ totop: true
 #### 自定义搜索
 google_cse: 
   enable: false
+  <tis is a si>
   cx:  
 baidu_search:    
   enable: false
